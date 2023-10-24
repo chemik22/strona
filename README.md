@@ -6,10 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>CORS - podstawy</title>
-    <script src="https://cdn.szurek.local/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.szurek.local/highlight.min.js"></script>
-    <link rel="stylesheet" href="https://cdn.szurek.local/tailwind.1.4.6.min.css" />
-    <link rel="stylesheet" href="https://cdn.szurek.local/highlight.js.css" />
 
 </head>
 
