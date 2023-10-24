@@ -30,7 +30,7 @@
                             <script>
                                     function checkWeather1() {
                                         $.getJSON("https://cors.szurek.local/10/", function(json) {
-                                            alert(`Obecna temperatura to ${json['heat']}.`);
+                                            alert(`Obecna temperatura to ${json['sekret']}.`);
                                         });
                                     }
                                 </script>
